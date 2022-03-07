@@ -2,6 +2,10 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Ricky Wu for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ricky](https://github.com/Rickwu93) for the Lighthouse Labs Web Development Bootcamp.
 
-...taken by [Ricky](https://github.com/Rickwu93) for the...
+
+## Table of Contents
+
+  * [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
